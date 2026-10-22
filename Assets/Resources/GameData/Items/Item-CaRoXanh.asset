@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2e7b68a26564e541b93a77eac0c95c7, type: 3}
+  m_Name: Item-CaRoXanh
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  _itemId: item_ca_ro_xanh
+  _displayName: Bluegill
+  _icon: {fileID: 0}
+  _handPrefab: {fileID: 0}
+  _localPosition: {x: 0, y: 0, z: 0}
+  _localRotationEuler: {x: 0, y: 0, z: 0}
+  _localScale: {x: 1, y: 1, z: 1}
+  _isFishingRod: 0
+  _fishData: {fileID: 11400000, guid: e545f5aeba2fb344094d95e7659834eb, type: 2}
+  _iconPosition: {x: 2, y: 0, z: 0}
+  _iconRotation: {x: 0, y: 0, z: 0}
+  _iconScale: {x: 0.9, y: 0.9, z: 0.9}
+  _traderIconPosition: {x: 0, y: 5}
+  _traderIconRotation: 33
+  _traderIconScale: {x: 1.1, y: 1.1}
+  _returnIcon: {fileID: 21300000, guid: 2c7b5261f57bf734e93a7ffa6cd852c4, type: 3}
+  _returnIconPosition: {x: -40.8, y: -6.82}
+  _returnIconRotation: 0
+  _returnIconSize: {x: 80, y: 56}
+  _leaderboardIconPosition: {x: 0, y: 2}
+  _leaderboardIconRotation: 0
+  _leaderboardIconSize: {x: 80, y: 56}
+  _aquariumPrefab: {fileID: 5989138908628411114, guid: db12894a191e518468ec487595b579f6, type: 3}
+  _aquariumPosition: {x: 0.1, y: -0.12, z: -0.51}
+  _aquariumRotation: {x: 0, y: 90, z: 0}
+  _aquariumScale: {x: 0.001, y: 2.5, z: 2.5}
+  _aquariumMinDisplaySizeMultiplier: 0
+  _aquariumMaxDisplaySizeMultiplier: 0

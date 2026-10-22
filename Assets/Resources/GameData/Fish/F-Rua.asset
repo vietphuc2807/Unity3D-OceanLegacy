@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5548e66b1af6a7c48ac72416e016d61b, type: 3}
+  m_Name: F-Rua
+  m_EditorClassIdentifier: Assembly-CSharp::FishData
+  FishId: rua
+  FishName: Turtle
+  Icon: {fileID: 21300000, guid: 1af4ca2e2c5758747a363c38c026a2b4, type: 3}
+  Rarity: 2
+  _rarityColors: {fileID: 11400000, guid: dfde5bc83185e2a4380e611fe80a55fd, type: 2}
+  _baseFamePoint: 35
+  WorldPrefab: {fileID: 770773530921077635, guid: 4a35be9ba116c6c4c8283716dbb346a0, type: 3}
+  SpawnWeight: 100
+  BaseScale: {x: 0.13, y: 0.13, z: 0.13}
+  MinSizeMultiplier: 1
+  MaxSizeMultiplier: 2.5
+  BaseWeightKg: 1.2
+  _weightScaleExponent: 2.3
+  PricePerKg: 10
+  _trophyBonusMax: 0
+  HookPositionOffset: {x: 0, y: 0, z: 0}
+  HookRotationOffset: {x: 180, y: 90, z: 0}
+  HandPositionOffset: {x: 0, y: 0, z: 0}
+  HandRotationOffset: {x: -20, y: -90, z: -10}
+  InventoryItem: {fileID: 11400000, guid: d42f9352a7c350448aa7ef62b38b1a73, type: 2}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040998460560",
+    "project_id": "ocean-legacy",
+    "storage_bucket": "ocean-legacy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040998460560:android:0f94a2cc8f380145fb3c15",
+        "android_client_info": {
+          "package_name": "com.orange.oceanlegacy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuiLSe25YmxLtR6RiHnVa7NIT_jo_Kkps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f351bae81cc0a4792ad266cebf36f4, type: 3}
+  m_Name: OutfitCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::OutfitCatalog
+  _items:
+  - {fileID: 11400000, guid: 2c7df367a7140754a818d545c4286220, type: 2}
+  - {fileID: 11400000, guid: 5af17229ad110f04e935692fc7601a22, type: 2}
+  - {fileID: 11400000, guid: b0e9f464e004c444597a2a2a6cdc2ac3, type: 2}
+  - {fileID: 11400000, guid: 9e5bd6bbca02d7f45a1b04784dd30906, type: 2}
+  - {fileID: 11400000, guid: ed6fdb9a9113c234c8e2bb6c8fb4c237, type: 2}
+  - {fileID: 11400000, guid: be1d15984674f8d4b8d32042140168be, type: 2}
+  - {fileID: 11400000, guid: b774418b99a582a46912d94ec112553d, type: 2}

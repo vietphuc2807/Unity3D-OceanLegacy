@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c84df8f73df8de04f92aaf4969e4764e, type: 3}
+  m_Name: BD_Worm
+  m_EditorClassIdentifier: Assembly-CSharp::BaitData
+  BaitId: worm
+  BaitName: Worm
+  Icon: {fileID: 21300000, guid: 933d468ef0d4864489243b1d870ca35f, type: 3}
+  PricePerUnit: 5
+  WorldPrefab: {fileID: 6816164192823953885, guid: 3203f2f94a52994409d1625068fb85ae, type: 3}
+  WorldScale: {x: 0.08, y: 0.08, z: 0.02}
+  WorldPositionOffset: {x: 0.00029, y: 0.00146, z: -0.0066}
+  WorldRotationOffset: {x: 282.76166, y: 169.01166, z: 16.903347}
+  CommonPercent: 71
+  RarePercent: 22
+  SuperRarePercent: 6.5
+  LegendaryPercent: 0.5
+  SizeBiasPercent: 15

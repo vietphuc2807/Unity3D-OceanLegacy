@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1308850e37391d94783dbfc758680d1a, type: 3}
+  m_Name: EmoteCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::EmoteCatalog
+  _items:
+  - {fileID: 11400000, guid: 59031762835d3f542bf2e363d42213cb, type: 2}
+  - {fileID: 11400000, guid: 581ec5351602ed74d98b1b87e75c4294, type: 2}
+  - {fileID: 11400000, guid: 1b99315de9a168c4b9c83fa0c3ebed24, type: 2}
+  - {fileID: 11400000, guid: 97f3b7ccd6983724bab8d329bea65704, type: 2}

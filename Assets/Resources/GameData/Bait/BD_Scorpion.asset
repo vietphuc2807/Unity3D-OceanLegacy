@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c84df8f73df8de04f92aaf4969e4764e, type: 3}
+  m_Name: BD_Scorpion
+  m_EditorClassIdentifier: Assembly-CSharp::BaitData
+  BaitId: scorpion
+  BaitName: Scorpion
+  Icon: {fileID: 21300000, guid: bbf73c8690e85bc48a277255fd793be1, type: 3}
+  PricePerUnit: 31
+  WorldPrefab: {fileID: 8802120182170045035, guid: 41f2a04eeeb4c5c44a781581f37a4d5b, type: 3}
+  WorldScale: {x: 0.05, y: 0.05, z: 0.05}
+  WorldPositionOffset: {x: 0.0006, y: 0.0022, z: 0.0032}
+  WorldRotationOffset: {x: 72.79691, y: 0.5192581, z: 180.54362}
+  CommonPercent: 35
+  RarePercent: 40
+  SuperRarePercent: 22
+  LegendaryPercent: 3
+  SizeBiasPercent: 55

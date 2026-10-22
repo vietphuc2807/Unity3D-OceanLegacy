@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2e7b68a26564e541b93a77eac0c95c7, type: 3}
+  m_Name: Item-Rua
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  _itemId: item_rua
+  _displayName: Turtle
+  _icon: {fileID: 0}
+  _handPrefab: {fileID: 0}
+  _localPosition: {x: 0, y: 0, z: 0}
+  _localRotationEuler: {x: 0, y: 0, z: 0}
+  _localScale: {x: 1, y: 1, z: 1}
+  _isFishingRod: 0
+  _fishData: {fileID: 11400000, guid: 554da9d874b57aa48b49dcb82ecfc1a3, type: 2}
+  _iconPosition: {x: 2, y: 0, z: 0}
+  _iconRotation: {x: 0, y: 0, z: 0}
+  _iconScale: {x: 1, y: 1, z: 1}
+  _traderIconPosition: {x: 1, y: 2}
+  _traderIconRotation: 40
+  _traderIconScale: {x: 1.2, y: 1.2}
+  _returnIcon: {fileID: 21300000, guid: 31e0b3fa720183946a9424b9d8ad5df4, type: 3}
+  _returnIconPosition: {x: -41.49, y: -9.79}
+  _returnIconRotation: 0
+  _returnIconSize: {x: 80, y: 57}
+  _leaderboardIconPosition: {x: 0, y: 6.5}
+  _leaderboardIconRotation: 0
+  _leaderboardIconSize: {x: 100, y: 77}
+  _aquariumPrefab: {fileID: 770773530921077635, guid: bbda634dd28917745a795722a484777e, type: 3}
+  _aquariumPosition: {x: 0, y: -0.5, z: -1.38}
+  _aquariumRotation: {x: 0, y: 180, z: 0}
+  _aquariumScale: {x: 0.13, y: 0.13, z: 0.001}
+  _aquariumMinDisplaySizeMultiplier: 2
+  _aquariumMaxDisplaySizeMultiplier: 0

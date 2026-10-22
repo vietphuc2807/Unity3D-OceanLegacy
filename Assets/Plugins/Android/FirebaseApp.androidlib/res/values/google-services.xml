@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">1040998460560</string>
+  <string name="google_storage_bucket" translatable="false">ocean-legacy.firebasestorage.app</string>
+  <string name="project_id" translatable="false">ocean-legacy</string>
+  <string name="google_api_key" translatable="false">AIzaSyCuiLSe25YmxLtR6RiHnVa7NIT_jo_Kkps</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCuiLSe25YmxLtR6RiHnVa7NIT_jo_Kkps</string>
+  <string name="google_app_id" translatable="false">1:1040998460560:android:0f94a2cc8f380145fb3c15</string>
+</resources>

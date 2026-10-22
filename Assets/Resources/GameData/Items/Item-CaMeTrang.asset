@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2e7b68a26564e541b93a77eac0c95c7, type: 3}
+  m_Name: Item-CaMeTrang
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  _itemId: item_ca_me_trang
+  _displayName: Silver Carp
+  _icon: {fileID: 0}
+  _handPrefab: {fileID: 0}
+  _localPosition: {x: 0, y: 0, z: 0}
+  _localRotationEuler: {x: 0, y: 0, z: 0}
+  _localScale: {x: 1, y: 1, z: 1}
+  _isFishingRod: 0
+  _fishData: {fileID: 11400000, guid: c55929510157b5a44a3518a8bb1ecf4c, type: 2}
+  _iconPosition: {x: 2, y: -3.5, z: 0}
+  _iconRotation: {x: 0, y: 0, z: 0}
+  _iconScale: {x: 0.9, y: 0.9, z: 0.9}
+  _traderIconPosition: {x: 3.3, y: 2}
+  _traderIconRotation: 33
+  _traderIconScale: {x: 1.3, y: 1.3}
+  _returnIcon: {fileID: 21300000, guid: 2c9b7c8f2756b8d4591b798580df5380, type: 3}
+  _returnIconPosition: {x: -51.4, y: -4.41}
+  _returnIconRotation: 0
+  _returnIconSize: {x: 120, y: 57}
+  _leaderboardIconPosition: {x: 0, y: 0}
+  _leaderboardIconRotation: 0
+  _leaderboardIconSize: {x: 120, y: 57}
+  _aquariumPrefab: {fileID: 7292172708250408511, guid: 84a9c1fb90b54fa4a8694c1c86c16e02, type: 3}
+  _aquariumPosition: {x: -0.09, y: -0.09, z: -0.68}
+  _aquariumRotation: {x: 0, y: 90, z: 0}
+  _aquariumScale: {x: 0.001, y: 1.35, z: 1.35}
+  _aquariumMinDisplaySizeMultiplier: 0
+  _aquariumMaxDisplaySizeMultiplier: 0

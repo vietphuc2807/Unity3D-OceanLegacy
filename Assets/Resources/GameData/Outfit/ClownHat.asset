@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c19fe5d0d48bb1144b3da2889483d9ce, type: 3}
+  m_Name: ClownHat
+  m_EditorClassIdentifier: Assembly-CSharp::OutfitItemData
+  _itemId: clown_hat
+  _icon: {fileID: 21300000, guid: ef18bdfda5b995043b170393aef3c185, type: 3}
+  _prefab: {fileID: 1962691832014867202, guid: 5176ab6dfb83e3a42ba789c601050132, type: 3}
+  _localPosition: {x: -0.00007, y: 0.00529, z: 0.00053}
+  _localRotationEuler: {x: -0.0000016101324, y: 113.54799, z: 0.0000039267643}
+  _localScale: {x: 0.01, y: 0.010000002, z: 0.01}

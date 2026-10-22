@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c19fe5d0d48bb1144b3da2889483d9ce, type: 3}
+  m_Name: NonLa
+  m_EditorClassIdentifier: Assembly-CSharp::OutfitItemData
+  _itemId: non_la
+  _icon: {fileID: 21300000, guid: fcbc833d583d85b4b99a8fa6bd8892e8, type: 3}
+  _prefab: {fileID: 3128725234371406160, guid: 7c34657681fe1ce45aca09c61b271148, type: 3}
+  _localPosition: {x: 0, y: -0.0126, z: 0.0052}
+  _localRotationEuler: {x: 325.8688, y: 0.000013042979, z: -0.0000075763596}
+  _localScale: {x: 0.01, y: 0.010000002, z: 0.01}
